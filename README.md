@@ -21,7 +21,7 @@ Imagine you work at a port and are in charge of vessel allocations. Each day, yo
 ## API
 ```api.py``` contains a very simple Flask API
 
-###To run the api:
+### To run the api:
 1) (Optionally) Create a virtualenv <br>
 ```virtualenv venv```
 <br>
@@ -31,7 +31,7 @@ Imagine you work at a port and are in charge of vessel allocations. Each day, yo
 4) Test it by running: ```curl http://127.0.0.1:8000/containers```
 
 
-###Endpoints
+### Endpoints
 
 1) Get a list of containers that need to be shipped
 ```
